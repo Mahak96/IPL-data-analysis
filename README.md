@@ -34,17 +34,9 @@ This is a student project that analyzes **IPL cricket data** to find insights ab
    ```
 5. **Run the notebook** to see the analysis.
 
-## 📷 Sample Visualization
-![Sample Graph](path_to_image.png)
-*(Replace `path_to_image.png` with your actual image path)*
 
 ## ✨ Future Improvements
 - Add more advanced data visualizations.
 - Try using **Machine Learning** to predict match outcomes.
 - Make an interactive **dashboard** for better analysis.
 
-## 🤝 Want to Contribute?
-If you have any suggestions, feel free to fork this repo and submit a pull request! 🎉
-
-## 📧 Contact
-If you have any questions, reach out to me at **[your email](mailto:your_email@example.com)** or visit my **[GitHub Profile](https://github.com/Mahak96/)**.
