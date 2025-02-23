@@ -35,8 +35,8 @@ This is a student project that analyzes **IPL cricket data** to find insights ab
 5. **Run the notebook** to see the analysis.
 
 ## 📷 Sample Visualization
-![Sample Graph]
-(![Screenshot (194)](https://github.com/user-attachments/assets/020f45e9-3ba0-45e4-96e2-a0c1357b9eb2)
+
+![Screenshot (194)](https://github.com/user-attachments/assets/020f45e9-3ba0-45e4-96e2-a0c1357b9eb2)
 ![Screenshot (195)](https://github.com/user-attachments/assets/cedbd2e1-350a-4a80-938a-e2472b3acfd4)
 ![Screenshot (196)](https://github.com/user-attachments/assets/fc508ee7-079f-4451-99e5-402a52b334b4)
 
