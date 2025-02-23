@@ -1,5 +1,5 @@
-﻿# IPL-data-analysis
-‣# 🏏 IPL Data Analysis
+
+# 🏏 IPL Data Analysis
 
 ## 📌 Project Overview
 This is a student project that analyzes **IPL cricket data** to find insights about players, teams, and matches. The project uses **Python, Pandas, and Matplotlib** to process and visualize the data.
@@ -34,9 +34,23 @@ This is a student project that analyzes **IPL cricket data** to find insights ab
    ```
 5. **Run the notebook** to see the analysis.
 
+## 📷 Sample Visualization
+![Sample Graph]
+(![Screenshot (194)](https://github.com/user-attachments/assets/020f45e9-3ba0-45e4-96e2-a0c1357b9eb2)
+![Screenshot (195)](https://github.com/user-attachments/assets/cedbd2e1-350a-4a80-938a-e2472b3acfd4)
+![Screenshot (196)](https://github.com/user-attachments/assets/fc508ee7-079f-4451-99e5-402a52b334b4)
+
+
 
 ## ✨ Future Improvements
 - Add more advanced data visualizations.
 - Try using **Machine Learning** to predict match outcomes.
 - Make an interactive **dashboard** for better analysis.
 
+## 🤝 Want to Contribute?
+If you have any suggestions, feel free to fork this repo and submit a pull request! 🎉
+
+## 📜 License
+This project is **open-source** and licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+**Happy Coding! 🚀😊**
